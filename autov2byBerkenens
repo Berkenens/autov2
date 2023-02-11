@@ -2,7 +2,7 @@
 -- If Any Error Happened Let me Know--
 
 --// Setting \--
-local range = 15
+local range = 1000
 
 --// Variable \--
 local player = game:GetService("Players").LocalPlayer
